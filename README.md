@@ -1,5 +1,5 @@
 # Librealsense-Install
-Install [libreaksense](https://github.com/IntelRealSense/librealsense)  for the NVIDIA Jetson Nano Developer Kit(JetPack 4.4)
+Install [librealsense](https://github.com/IntelRealSense/librealsense)  for the NVIDIA Jetson Nano Developer Kit(JetPack 4.4)
 
 ## Install
 
